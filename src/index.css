@@ -13,12 +13,13 @@ code {
 }
 
 .Link{
+    margin: 15px;
     text-decoration: none;
     color: black;
+    font-family: serif;
 }
 .painel{
     display: flex;
-    justify-content: space-around;
-
-    background-color: aliceblue;
+    justify-content: center;
+    background-color: #FFFFFF;
 }
