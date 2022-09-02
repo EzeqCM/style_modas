@@ -1,8 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Button } from "@mui/material"
 export default function Home() {
   return (
+    <div className='logo'>
+    <center><img src="Logo -site.png" height="60" width="300"/></center>
     <div className='painel'>
         <Link to="/masculino" className='Link'>
         MASCULINO
@@ -16,6 +17,7 @@ export default function Home() {
       <Link to="/Calcados" className='Link'>
         CALÇADOS
         </Link> 
+    </div>
     </div>
   )
 }
