@@ -7,10 +7,10 @@
 }
 
 .tituloproduto{
-    opacity: 1.0;
-    font-weight:900;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 25px;
+   opacity: 1.0;
+   font-weight:900;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 25px;
 }
 .produtos{
     display: flex;
